@@ -11,12 +11,13 @@ O programça atrás de uma interface permite uma interação com suas respectiva
 -  Avança ou retorna dentre as musicas na playlist. 
 
 ## Arquivos
-main.c: Contém a implementação principal e o menu interativo.
-playlist.h: Contém as definições das estruturas e declarações das funções.
+- main.c: Contém a implementação principal e o menu interativo.
+- 
+- playlist.h: Contém as definições das estruturas e declarações das funções.
 
 
 
-##Execução: 
+## Execução: 
 
 ### Execute o arquivo main.c por um compilador, assim podera ter acesso a interface e realizar suas funções como nos exemplos abaixo. 
 
