@@ -3,7 +3,7 @@
 Este projeto em C implementa um simulador de playlist que lê uma lista de artistas e suas respectivas músicas de um arquivo, armazenando os registros em uma lista circular duplamente encadeada.
 O programça atrás de uma interface permite uma interação com suas respectivas funcionalidades.
 
-##Funcionalidades
+## Funcionalidades
 -  Exibição de playlist, de forma ordenada alfabeticamente ou não
 -  Inserção de nova música
 -  Remoção música
